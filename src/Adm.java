@@ -1,4 +1,4 @@
-package TrabalhoFinal;
+package TrabalhoFinal.src;
 
 public class Adm extends Funcionario{
 

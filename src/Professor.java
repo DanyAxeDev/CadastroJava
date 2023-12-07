@@ -1,4 +1,4 @@
-package TrabalhoFinal;
+package TrabalhoFinal.src;
 
 public class Professor extends Funcionario{
     private String disciplina;

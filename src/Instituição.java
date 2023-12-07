@@ -1,4 +1,4 @@
-package TrabalhoFinal;
+package TrabalhoFinal.src;
 
 import java.util.ArrayList;
 import java.util.Iterator;
